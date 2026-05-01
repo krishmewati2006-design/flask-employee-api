@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Rohit",
+        "department": "Engineering",
+        "salary": 90000
+    },
+    {
+        "name": "Priya",
+        "department": "HR",
+        "salary": 42000
+    },
+    {
+        "name": "Aman",
+        "department": "Engineering",
+        "salary": 91000
+    },
+    {
+        "name": "Neha",
+        "department": "Marketing",
+        "salary": 38000
+    },
+    {
+        "name": "Karan",
+        "department": "Engineering",
+        "salary": 55000
+    },
+    {
+        "name": "Sneha",
+        "department": "Marketing",
+        "salary": 62000
+    }
+]
